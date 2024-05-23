@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+.card {
+  border: 1px solid #1007b5;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+  background-color: #1e1ec3;
+}
